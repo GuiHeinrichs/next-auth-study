@@ -1,11 +1,11 @@
 # NextAuth Study Project
 
-Este é um projeto de estudos para implementar autenticação em um projeto Next.js 13+ utilizando **NextAuth** e **Prisma**.
+Este é um projeto de estudos para implementar autenticação em um projeto Next.js 15 utilizando **NextAuth** e **Prisma**.
 
 ---
 
 ## 🚀 Tecnologias utilizadas:
-- [Next.js 13](https://nextjs.org/)
+- [Next.js 15](https://nextjs.org/)
 - [NextAuth](https://next-auth.js.org/)
 - [Prisma](https://www.prisma.io/)
 - [TypeScript](https://www.typescriptlang.org/)
